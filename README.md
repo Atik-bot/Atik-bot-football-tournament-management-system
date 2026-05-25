@@ -55,11 +55,6 @@ This project manages football tournaments, teams, players, matches, leagues, sta
 - Subqueries
 - Normalization
 
----
-
-## 📊 ER Diagram
-
-(Add your ER diagram image here)
 
 ```md
 ![ER Diagram](assets/database-schema.png)
