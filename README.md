@@ -8,7 +8,7 @@ This project manages football tournaments, teams, players, matches, leagues, sta
 
 ---
 
-## 📌 Features
+ Features
 
 - Team Management
 - Player Information Management
@@ -24,7 +24,7 @@ This project manages football tournaments, teams, players, matches, leagues, sta
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Oracle SQL
 - SQL Developer
@@ -33,7 +33,7 @@ This project manages football tournaments, teams, players, matches, leagues, sta
 
 ---
 
-## 🗂 Database Components
+## Database Components
 
 ### Tables
 - Team
@@ -55,6 +55,3 @@ This project manages football tournaments, teams, players, matches, leagues, sta
 - Subqueries
 - Normalization
 
-
-```md
-![ER Diagram](assets/database-schema.png)
